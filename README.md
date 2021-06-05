@@ -1,2 +1,2 @@
 # WebScrapping
-Financial Data Scrap through Python Libraries for Sentiment Analysis
+Data Scrapping for Financial News
